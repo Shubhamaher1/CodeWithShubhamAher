@@ -52,7 +52,7 @@
 
 ### Events
 
-<img width="525" alt="Screenshot 2022-06-26 at 11 57 41 AM" src="https://user-images.githubusercontent.com/83803180/175802472-de896121-2b66-4fff-86a4-34b757eb23b8.png">
+
 
 ### Tools &amp; technologies
 
