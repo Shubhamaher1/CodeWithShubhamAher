@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="https://github.com/codersalman/codersalman/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+<hr>
 - 🌱 I’m currently learning Computer Science  & Production
 - 👯 I’m looking to collaborate on opensource and educational Projects 
 - 💬 Ask me about Web & App Dev , Opensource , Technology
@@ -70,10 +74,7 @@
 </p>
 
 
-<hr>
-<p align="center">
-  <img src="https://github.com/codersalman/codersalman/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
 
 <hr>
 
