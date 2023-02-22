@@ -98,6 +98,12 @@ MY Mission To Make Top Most Organization
 ### My Latest YouTube Videos 🌱
 
 </td>
+
+### Top 400 DSA problem you should have to solve
+# 1 Swap element from the Array 
+  eg: [1,2,3,4,-3,-2,6,-7,9]
+  output: [-3,-2,-7,1,2,3,4,6,9]
+  
   
 
 
