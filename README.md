@@ -99,16 +99,21 @@ MY Mission To Make Top Most Organization
 
 </td>
 
-### Top 400 DSA problem you should have to solve
-# 1 Swap element from the Array 
+# Top 400 DSA problem you should have to solve
+### 1 Swap element from the Array 
   eg: [1,2,3,4,-3,-2,6,-7,9]
   output: [-3,-2,-7,1,2,3,4,6,9]
   
 
 Hint: Create two ArrayList and add negetive numbers in one array and +ve no in other arrray and add them together in the way of required 
 <a href="#" target="_blank">Video</a> <br/>
-<a href="#" target="_blank">Solution:</a>
+<a href="#" target="_blank">source of code:</a>
  
-
-  
-
+### Que 1:  Sort the given array  0, 1,2's  
+eg : arr={0,2,1,2,0,1,2,1,2,1};
+output: [0,0,1,1,1,1,2,2,2,2];
+Hint : We can solve this problem in two different ways 
+        1-> count the number of 0, 1, 2's
+        2-> by sliding window 
+        <a href="#" target="_blank">Video</a> <br/>
+<a href="#" target="_blank">source of code: </a>
