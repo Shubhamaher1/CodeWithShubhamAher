@@ -109,7 +109,7 @@ Hint: Create two ArrayList and add negetive numbers in one array and +ve no in o
 <a href="#" target="_blank">Video</a> <br/>
 <a href="#" target="_blank">source of code:</a>
  
-### Que 1:  Sort the given array  0, 1,2's  
+### Que 2:  Sort the given array  0, 1,2's  
 eg : arr={0,2,1,2,0,1,2,1,2,1};
 output: [0,0,1,1,1,1,2,2,2,2];
 Hint : We can solve this problem in two different ways 
@@ -117,3 +117,14 @@ Hint : We can solve this problem in two different ways
         2-> by sliding window 
         <a href="#" target="_blank">Video</a> <br/>
 <a href="#" target="_blank">source of code: </a>
+
+### Que 3: Find the second Maximum no from the array
+eg : the given array is 
+array= {32,3,4,5,5,6,7,374,7894,584,50};
+Output :584 
+Hint :
+  there are so many wa to slove this question but one of the most optimal solution is to time compexity of given problem this the main task to do.
+  1-optimal Solution-> First find the higest value from  given array and then find the second higest value from given array .
+  <a href="" target="_blank">Video</a>
+  <a herf="" target="_blank">Optimal Solution: With written Notes</a>
+  
