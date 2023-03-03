@@ -125,6 +125,20 @@ Output :584
 Hint :
   there are so many wa to slove this question but one of the most optimal solution is to time compexity of given problem this the main task to do.
   1-optimal Solution-> First find the higest value from  given array and then find the second higest value from given array .
+  <br/>
+  
   <a href="" target="_blank">Video</a>
   <a herf="" target="_blank">Optimal Solution: With written Notes</a>
-  
+
+  ### Que 4 : Binary Search 
+    Given a sorted array of size N and an integer K, find the position at which K is present in the array using binary search.
+
+    eg :{1,2 3,4 5,6,7,20,100}; v=4
+    Condition: The given array should be sorted
+    Hint : two pointer approch -> and find middle position check whether it is High or low given value. if it is low it that means the given value is present in between of the last position and middle position.
+    task: Main task to reduce the time complexity.
+
+  <br/>
+    
+  <a href="" target="_blank">Video</a>
+  <a herf="" target="_blank">Optimal Solution: With written Notes</a>
