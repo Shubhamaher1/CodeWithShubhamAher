@@ -142,3 +142,15 @@ Hint :
     
   <a href="" target="_blank">Video</a>
   <a herf="" target="_blank">Optimal Solution: With written Notes</a>
+  <br/>
+
+  ### Que 5: find the first repatated value fromm the given array 
+   You have given array and you should have to finad first repatated value from the given array 
+   eg : array={2,3,45,2,4,6};
+   Output: 2
+
+   <br/>
+   
+    <a href="" target="_blank">Video</a>
+  <a herf="" target="_blank">Optimal Solution: With written Notes</a>
+  
