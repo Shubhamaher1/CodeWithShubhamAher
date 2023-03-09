@@ -149,8 +149,10 @@ Hint :
    eg : array={2,3,45,2,4,6};
    Output: 2
 
-   <br/>
+   <br/></br>
+
+
    
-    <a href="" target="_blank">Video</a>
+  <a href="" target="_blank">Video</a>
   <a herf="" target="_blank">Optimal Solution: With written Notes</a>
   
